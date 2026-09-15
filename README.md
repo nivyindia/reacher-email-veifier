@@ -1,8 +1,24 @@
-> **UNIVERSAL START COMMAND:** Read `docs/REPO-CONTROL/00-MASTER-INSTRUCTIONS.md` and continue the work.
->
-> Give this exact instruction to ChatGPT/Codex/another AI agent after opening this repository. It is the repository's main work instruction. The agent must read the master instructions, discover the control pack and indexed sources, determine the highest-priority unfinished work, execute when permitted, verify it, update tracking/README, commit, and continue. If the control file is missing, search the repository for the equivalent control/instruction system before creating duplicates.
+# check-if-email-exists
 
-## 📘 Repository Context
+## 🚀 START / CONTINUE WORK — UNIVERSAL REPOSITORY WORK SYSTEM
+
+> **`Repository: nivyindia/reacher-email-veifier | Repository URL: https://github.com/nivyindia/reacher-email-veifier | Branch: master | Branch URL: https://github.com/nivyindia/reacher-email-veifier/tree/master — Read docs/REPO-CONTROL/00-MASTER-INSTRUCTIONS.md and start/continue the work.`**
+
+### ⚡ QUICK RESUME — ONE-GLANCE STATUS
+| Item | Current state |
+|---|---|
+| **Repository** | `nivyindia/reacher-email-veifier` |
+| **Branch** | `master` |
+| **Start point** | `docs/REPO-CONTROL/00-MASTER-INSTRUCTIONS.md` |
+| **Current stage** | Component/control reconciliation |
+| **Status** | `IN PROGRESS` |
+| **Completed** | Supporting email-verification component and repository-level work-control/status guidance established |
+| **Remaining** | Verify local component state and continue highest-priority integration/support tasks |
+| **Current blocker** | None verified here |
+| **Exact %** | **Not calculated** — use verified implementation evidence |
+| **Next action** | Read master → source index → inspect component/task state → execute/verify |
+
+## 📘 Repository Context — Read This First
 
 - **Purpose:** Supporting email-verification capability for the Nivy ecosystem/AIOS; this repository is not the main AIOS runtime.
 - **Main objective:** Provide or preserve email-existence verification capability that can be evaluated for lead-data quality and automation workflows.
@@ -12,13 +28,7 @@
 - **Progress rule:** Code presence in this repository is not proof of AIOS integration or production readiness.
 - **How to use this README:** Understand the capability → review `WORK-STATUS.md` → inspect local implementation → verify integration against the canonical AIOS plan.
 
-## 📌 Nivy AIOS Work Status — Quick Resume
-
-- **Last updated:** 2026-09-16
-- **Purpose here:** Supporting email-verification capability/repository; this is not the main AIOS implementation repo.
-- **Nivy AIOS work status:** See `WORK-STATUS.md` for last work, progress, next task, blockers and evidence.
-- **Where to start:** `WORK-STATUS.md` → then `nivyindia/Nivy-Next-AIOS` canonical implementation plan/tracker.
-- **Exact completion %:** Do not infer from this repository's code/template count.
+**Detailed status:** [WORK-STATUS.md](WORK-STATUS.md)
 
 ---
 
