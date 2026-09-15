@@ -1,9 +1,19 @@
+## 📘 Repository Context
+
+- **Purpose:** Supporting email-verification capability for the Nivy ecosystem/AIOS; this repository is not the main AIOS runtime.
+- **Main objective:** Provide or preserve email-existence verification capability that can be evaluated for lead-data quality and automation workflows.
+- **Main objects:** Email verification service/code, backend, CLI and related integration interfaces.
+- **Data/source:** Upstream open-source Reacher/check-if-email-exists project plus repository-specific configuration or changes; verify upstream provenance and licensing before production use.
+- **Implementation plan:** Any AIOS integration must be traced to the canonical Nivy Next AIOS plan, tool/connector contracts and verification evidence.
+- **Progress rule:** Code presence in this repository is not proof of AIOS integration or production readiness.
+- **How to use this README:** Understand the capability → review `WORK-STATUS.md` → inspect local implementation → verify integration against the canonical AIOS plan.
+
 ## 📌 Nivy AIOS Work Status — Quick Resume
 
 - **Last updated:** 2026-09-16
 - **Purpose here:** Supporting email-verification capability/repository; this is not the main AIOS implementation repo.
-- **Nivy AIOS work status:** See `AIOS-WORK-STATUS.md` for last work, progress, next task, blockers and evidence.
-- **Where to start:** `AIOS-WORK-STATUS.md` → then `nivyindia/Nivy-Next-AIOS` canonical implementation plan/tracker.
+- **Nivy AIOS work status:** See `WORK-STATUS.md` for last work, progress, next task, blockers and evidence.
+- **Where to start:** `WORK-STATUS.md` → then `nivyindia/Nivy-Next-AIOS` canonical implementation plan/tracker.
 - **Exact completion %:** Do not infer from this repository's code/template count.
 
 ---
