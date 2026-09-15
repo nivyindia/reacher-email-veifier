@@ -1,3 +1,7 @@
+> **UNIVERSAL START COMMAND:** Read `docs/REPO-CONTROL/00-MASTER-INSTRUCTIONS.md` and continue the work.
+>
+> Give this exact instruction to ChatGPT/Codex/another AI agent after opening this repository. It is the repository's main work instruction. The agent must read the master instructions, discover the control pack and indexed sources, determine the highest-priority unfinished work, execute when permitted, verify it, update tracking/README, commit, and continue. If the control file is missing, search the repository for the equivalent control/instruction system before creating duplicates.
+
 ## 📘 Repository Context
 
 - **Purpose:** Supporting email-verification capability for the Nivy ecosystem/AIOS; this repository is not the main AIOS runtime.
